@@ -1,0 +1,9 @@
+export const SIGN_IN_SUCCESS = "SIGN_IN_SUCCESS";
+export const SIGN_IN_FAIL = "SIGN_IN_FAIL";
+export const SIGN_OUT = "SIGN_OUT";
+
+export const FETCH_USER_SUCCESS = "FETCH_USER_SUCCESS";
+export const FETCH_USER_FAIL = "FETCH_USER_FAIL";
+
+export const FETCH_NEWS_SUCCESS = "FETCH_NEWS_SUCCESS";
+export const FETCH_NEWS_FAIL = "FETCH_NEWS_FAIL";
